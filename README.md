@@ -33,4 +33,6 @@ Following this, we have designed a comprehensive ETL plan to:
 2. Clean and Transform the data to ensure quality, consistency and create derived columns for use in the warehouse
 3. Load this transformed dataset from the final set of staging tables to the dimension and fact tables in the warehouse.
 
+![ETL Plan](ETL.png)
+
 The data in the warehouse is finally utilized in SSAS, SSRS, a PowerBI Worksheet and a Tableau Worksheet to answer the initial business questions in a graphical, interactive and insightful format. 
