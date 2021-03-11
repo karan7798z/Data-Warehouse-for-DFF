@@ -11,15 +11,17 @@ Using Kimball's approach of conformable Data Marts, we have used the Dimensional
 
 We designed 3 Data Marts to make the querying process easy to understand, and make it return results at a super fast rate. The 3 Data Marts created to be able to efficiently answer the above questions are:
 
-1. PRODUCT SALES DATA MART
+**1. PRODUCT SALES DATA MART
 
 ![Product Sales Data Mart](Product_Sales_DM.png)
 
-2. PRODUCT CATEGORY SALES DATA MART
+
+**2. PRODUCT CATEGORY SALES DATA MART
 
 ![Product Category Sales Data Mart](Product_CategorySales_DM.png)
 
-3. STOREWISE AGGREGATED CATEGORY SALES DATA MART
+
+**3. STOREWISE AGGREGATED CATEGORY SALES DATA MART
 
 ![Storewise Aggregated Category Sales Data Mart](Storewise_CategorySales_DM.png)
 
