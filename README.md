@@ -13,9 +13,15 @@ We designed 3 Data Marts to make the querying process easy to understand, and ma
 
 1. PRODUCT SALES DATA MART
 
+![Product Sales Data Mart](Product_Sales_DM.png)
+
 2. PRODUCT CATEGORY SALES DATA MART
 
+![Product Category Sales Data Mart](Product_CategorySales_DM.png)
+
 3. STOREWISE AGGREGATED CATEGORY SALES DATA MART
+
+![Storewise Aggregated Category Sales Data Mart](Storewise_CategorySales_DM.png)
 
 After deciding the data marts, we have planned the physical design, aggregation scheme, standardization scheme and indexing scheme. Then we have meticulously transformed the dataset, wherever required, to address the Data Quality issues. Primary issues addressed from the quality perspective include - dummy values in fields, absence of data values, cryptic/inconsistent/illegible values, misguided column names.
 
